@@ -5,4 +5,5 @@
   "linkedin": "https://www.linkedin.com/in/chen-amrani-450309234/",
   "description": "בוגרת תואר ראשון במדעי המחשב עם התמחות בפיתוח Full Stack, בעלת ידע וניסיון רחב בטכנולוגיות כגון React, Node.js, TypeScript, Express, MongoDB, Docker, AWS ועוד.
   במהלך לימודיי ובניסיוני המקצועי פיתחתי מערכות מבוססות REST API, מערכות בזמן אמת עם Socket.IO, והטמעתי פתרונות ענן CI/CD."
+  "customImage": true
 }
